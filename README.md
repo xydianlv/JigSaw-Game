@@ -26,4 +26,4 @@
 [jigsaw_one]:https://github.com/xydianlv/AllImages/raw/master/Image/jigsaw/jigsaw_one.jpg
 [jigsaw_two]:https://github.com/xydianlv/AllImages/raw/master/Image/jigsaw/jigsaw_two.jpg
 [jigsaw_three]:https://github.com/xydianlv/AllImages/raw/master/Image/jigsaw/jigsaw_three.jpg
-[jigsaw_four]:https://github.com/xydianlv/AllImages/raw/master/Image/jigsaw/jigsaw_four.jpg
+[jigsaw_four]:https://github.com/xydianlv/AllImages/raw/master/Image/jigsaw/jigsaw_four.png
