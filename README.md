@@ -13,6 +13,7 @@
 
 ###项目结构
 ![][jigsaw_four]
+
 1. “MainActivity”为主类，负责各组件的初始化，并承担将负责不同功能的对象组合到一起；
 2. “MidView”为“ViewThreeFour、ViewFiveSeven、ViewSevenTen”的父类，实现“View.OnClickListener接口，其子类对其方法“OnClick”进行重写，
    构造适用于不同模式的相应方式，并将获得的响应值传递给父类的“checkList”函数，判断图片是否已完成正确排列；
