@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageButton
+            android:layout_weight="1"
+            android:id="@+id/one_one_button"
+            style="@style/ImageThemeLT"
+            android:background="@mipmap/f_f_first_01"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+        <ImageButton
+            android:layout_weight="1"
+            android:id="@+id/one_two_button"
+            style="@style/ImageThemeCT"
+            android:background="@mipmap/f_f_first_02"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+        <ImageButton
+            android:layout_weight="1"
+            android:id="@+id/one_three_button"
+            style="@style/ImageThemeRT"
+            android:background="@mipmap/f_f_first_03"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageButton
+            android:layout_weight="1"
+            android:id="@+id/two_one_button"
+            style="@style/ImageThemeLC"
+            android:background="@mipmap/f_f_first_04"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+        <ImageButton
+            android:layout_weight="1"
+            android:id="@+id/two_two_button"
+            style="@style/ImageThemeOC"
+            android:background="@mipmap/f_f_first_05"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+        <ImageButton
+            android:layout_weight="1"
+            android:id="@+id/two_three_button"
+            style="@style/ImageThemeRC"
+            android:background="@mipmap/f_f_first_06"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageButton
+            android:layout_weight="1"
+            android:id="@+id/three_one_button"
+            android:background="@mipmap/f_f_first_07"
+            style="@style/ImageThemeLC"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+        <ImageButton
+            android:layout_weight="1"
+            android:id="@+id/three_two_button"
+            style="@style/ImageThemeOC"
+            android:background="@mipmap/f_f_first_08"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+        <ImageButton
+            android:layout_weight="1"
+            android:id="@+id/three_three_button"
+            style="@style/ImageThemeRC"
+            android:background="@mipmap/f_f_first_09"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageButton
+            android:layout_weight="1"
+            android:id="@+id/four_one_button"
+            style="@style/ImageThemeLB"
+            android:background="@mipmap/f_f_first_10"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+        <ImageButton
+            android:layout_weight="1"
+            android:id="@+id/four_two_button"
+            style="@style/ImageThemeCB"
+            android:background="@mipmap/f_f_first_11"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+        <ImageButton
+            android:layout_weight="1"
+            android:id="@+id/four_three_button"
+            style="@style/ImageThemeRB"
+            android:background="@mipmap/f_f_first_12"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+    </LinearLayout>
+
+</LinearLayout>

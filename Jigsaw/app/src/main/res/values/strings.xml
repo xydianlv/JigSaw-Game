@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">拼图</string>
+    <string name="game_guide_one">游</string>
+    <string name="game_guide_two">戏</string>
+    <string name="game_guide_three">指</string>
+    <string name="game_guide_four">南</string>
+    <string name="first_guide">
+        1、游戏提供“3 x 4”“6 x 7”“8 x 9”三种模式，可由中间红色按钮切换；
+    </string>
+    <string name="second_guide">
+        2、在每个模式下，提供多张不同的图片，可点击左下角完整图片（按钮）进行选择；
+    </string>
+    <string name="third_guide">
+        3、在每个模式下，可通过点击“新游戏”开始该模式新一轮的挑战；
+    </string>
+    <string name="finally_guide">
+        4、祝您游戏愉快。
+    </string>
+</resources>

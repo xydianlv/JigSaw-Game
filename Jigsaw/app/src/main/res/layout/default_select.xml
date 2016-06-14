@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:background="#ffffff"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <View
+        android:layout_weight="24"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <LinearLayout
+        android:layout_weight="4"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <View
+            android:layout_weight="42"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+        <LinearLayout
+            android:layout_weight="7"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_weight="26"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <FrameLayout
+                    android:layout_weight="13"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageButton
+                        android:id="@+id/one_select"
+                        android:background="@drawable/t_f_first"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"/>
+
+                    <ImageButton
+                        android:id="@+id/one_select_back"
+                        android:visibility="invisible"
+                        android:background="@drawable/unchose_back_button"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"/>
+
+                </FrameLayout>
+
+                <View
+                    android:layout_weight="18"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"/>
+
+                <FrameLayout
+                    android:layout_weight="13"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageButton
+                        android:id="@+id/two_select"
+                        android:background="#ffffff"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"/>
+
+                    <ImageButton
+                        android:id="@+id/two_select_back"
+                        android:visibility="invisible"
+                        android:background="@drawable/unchose_back_button"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"/>
+
+                </FrameLayout>
+
+            </LinearLayout>
+
+            <View
+                android:layout_weight="35"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+
+            <LinearLayout
+                android:layout_weight="26"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <FrameLayout
+                    android:layout_weight="13"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageButton
+                        android:id="@+id/three_select"
+                        android:background="#ffffff"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"/>
+
+                    <ImageButton
+                        android:id="@+id/three_select_back"
+                        android:visibility="invisible"
+                        android:background="@drawable/unchose_back_button"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"/>
+
+                </FrameLayout>
+
+                <View
+                    android:layout_weight="18"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"/>
+
+                <FrameLayout
+                    android:layout_weight="13"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageButton
+                        android:id="@+id/four_select"
+                        android:background="#ffffff"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"/>
+
+                    <ImageButton
+                        android:id="@+id/four_select_back"
+                        android:visibility="invisible"
+                        android:background="@drawable/unchose_back_button"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"/>
+
+                </FrameLayout>
+
+            </LinearLayout>
+
+            <View
+                android:layout_weight="35"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+
+            <LinearLayout
+                android:layout_weight="26"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <FrameLayout
+                    android:layout_weight="13"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+                    <ImageButton
+                        android:id="@+id/five_select"
+                        android:background="#ffffff"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"/>
+
+                    <ImageButton
+                        android:id="@+id/five_select_back"
+                        android:visibility="invisible"
+                        android:background="@drawable/unchose_back_button"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"/>
+
+
+                </FrameLayout>
+
+                <View
+                    android:layout_weight="18"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"/>
+
+                <FrameLayout
+                    android:layout_weight="13"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageButton
+                        android:id="@+id/six_select"
+                        android:background="#ffffff"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"/>
+
+                    <ImageButton
+                        android:id="@+id/six_select_back"
+                        android:visibility="invisible"
+                        android:background="@drawable/unchose_back_button"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"/>
+
+
+                </FrameLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <View
+            android:layout_weight="42"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+        <LinearLayout
+            android:layout_weight="43"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <View
+                android:layout_weight="23"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+            <View
+                android:layout_weight="42"
+                android:background="@drawable/view_bottom"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+            <View
+                android:layout_weight="23"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+
+        </LinearLayout>
+
+        <View
+            android:layout_weight="42"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+    </LinearLayout>
+
+    <View
+        android:layout_weight="24"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</LinearLayout>
