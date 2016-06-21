@@ -41,8 +41,8 @@
 
 
 --------------------------------
-[jigsaw_one]:https://github.com/xydianlv/AllImages/raw/master/Image/jigsaw/jigsaw_gifo.jpg
-[jigsaw_two]:https://github.com/xydianlv/AllImages/raw/master/Image/jigsaw/jigsaw_gift.jpg
-[jigsaw_three]:https://github.com/xydianlv/AllImages/raw/master/Image/jigsaw/jigsaw_gifh.jpg
-[jigsaw_five]:https://github.com/xydianlv/AllImages/raw/master/Image/jigsaw/jigsaw_giff.jpg
+[jigsaw_one]:https://github.com/xydianlv/AllImages/raw/master/Image/jigsaw/jigsaw_gifo.jif
+[jigsaw_two]:https://github.com/xydianlv/AllImages/raw/master/Image/jigsaw/jigsaw_gift.jif
+[jigsaw_three]:https://github.com/xydianlv/AllImages/raw/master/Image/jigsaw/jigsaw_gifh.jif
+[jigsaw_five]:https://github.com/xydianlv/AllImages/raw/master/Image/jigsaw/jigsaw_giff.jif
 [jigsaw_four]:https://github.com/xydianlv/AllImages/raw/master/Image/jigsaw/jigsaw_four.png
