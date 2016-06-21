@@ -2,21 +2,25 @@
 ##简易拼图游戏
 
 ###功能描述  
-![][jigsaw_three]
+![][jigsaw_one]
 #####图一
 >APP启动界面，两秒后跳转到初始的“3*4”界面，右下角为“游戏指南”按钮，点开后呈现给用户的指南界面；  
 
-![][jigsaw_one]
+![][jigsaw_two]
 #####图二
 >点击左下角图片按钮提供更多的图片选择，该图片按钮既是一个选择按钮，又具有拼图过程中的提示功能；  
 
-![][jigsaw_two]
+![][jigsaw_three]
 
 #####图三
+>切换到“6*7”并选择另一图片；
+
+![][jigsaw_five]
+
+#####图四
 >点击中间的红色圆形按钮可进行“3*4、6*7、8*9”的模式切换，并且每个模式下提供不同的图片选择；  
 
 >“新游戏”按钮接收“CutNum”传来的新一组乱序数组对当前图片进行重新排列；  
-
 
 ###项目结构  
 ![][jigsaw_four]
@@ -37,7 +41,8 @@
 
 
 --------------------------------
-[jigsaw_one]:https://github.com/xydianlv/AllImages/raw/master/Image/jigsaw/jigsaw_one.jpg
-[jigsaw_two]:https://github.com/xydianlv/AllImages/raw/master/Image/jigsaw/jigsaw_two.jpg
-[jigsaw_three]:https://github.com/xydianlv/AllImages/raw/master/Image/jigsaw/jigsaw_three.jpg
+[jigsaw_one]:https://github.com/xydianlv/AllImages/raw/master/Image/jigsaw/jigsaw_gifo.jpg
+[jigsaw_two]:https://github.com/xydianlv/AllImages/raw/master/Image/jigsaw/jigsaw_gift.jpg
+[jigsaw_three]:https://github.com/xydianlv/AllImages/raw/master/Image/jigsaw/jigsaw_gifh.jpg
+[jigsaw_five]:https://github.com/xydianlv/AllImages/raw/master/Image/jigsaw/jigsaw_giff.jpg
 [jigsaw_four]:https://github.com/xydianlv/AllImages/raw/master/Image/jigsaw/jigsaw_four.png
